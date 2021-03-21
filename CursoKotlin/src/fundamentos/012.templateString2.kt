@@ -7,4 +7,10 @@ fun main() {
 //    Imprimindo uma condição dentro do print
     print("Hoje estou ${if (bomHumor) "feliz" else "chateado"}.")
 
+    if (bomHumor) {
+        print("Hoje estou feliz")
+    } else {
+        print("Hoje estou chateado")
+    }
+
 }
