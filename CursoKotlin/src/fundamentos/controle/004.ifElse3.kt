@@ -6,6 +6,5 @@ fun main() {
 
     val maiorValor = if (num1 > num2) num1 else num2
 
-
     println("O maior valor é ${maiorValor}.")
 }
