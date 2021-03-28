@@ -1,8 +1,5 @@
 package fundamentos
 
-import kotlin.math.roundToInt
-import kotlin.math.roundToLong
-
 fun main() {
     val raio = 4.5
     val areaCircunferencia: Double
