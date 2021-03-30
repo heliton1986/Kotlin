@@ -1,0 +1,13 @@
+INDEX VERSION 1.131+C:\Users\Heliton\Documents\GitHub\Kotlin\CursoKotlinCod3r\.metadata\.plugins\org.eclipse.jdt.core
+2608117827.index
+2196199803.index
+4071041151.index
+1762545993.index
+362645603.index
+3587702090.index
+2552250565.index
+1478027022.index
+619359329.index
+1940333750.index
+1247948764.index
+3948856984.index

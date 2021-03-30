@@ -1,0 +1,12 @@
+public class MeuPrimeiroPrograma1 {
+
+    public static void main(String[] args) {
+        minhaInstrucaoDeImprimir();
+    }
+
+    //Criei novo método e pedi para compilar no método main
+    static void minhaInstrucaoDeImprimir() {
+        System.out.println("Ola mundo");
+
+    }
+}
