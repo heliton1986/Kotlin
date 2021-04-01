@@ -11,7 +11,7 @@ fun main() {
 
         println("Titular = $titular")
         println("Número da conta = $numeroConta")
-        println("Saldo = $saldo")
+        println("Saldo = $saldo.")
         println()
         i++
     }
